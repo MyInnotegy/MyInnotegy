@@ -51,7 +51,7 @@ class _ForgotPasswordScreenState
           ),
           margin: EdgeInsets.symmetric(
             horizontal: 500,
-            vertical: 100,
+            vertical: 250,
           ),
           child: Padding(
             padding: const EdgeInsets.all(
